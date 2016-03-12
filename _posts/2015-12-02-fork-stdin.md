@@ -3,7 +3,7 @@ title: fork() and stdin behaviour
 layout: post
 ---
 
-I've stumpled upon this: if we `fork()` a process, its standard input and output file descriptors remain the same for both processes. It means that the forked process can `read()` from *stdin*, and then the read data is taken away, and the original process can't read it.
+I've stumbled upon this: if we `fork()` a process, its standard input and output file descriptors remain the same for both processes. It means that the forked process can `read()` from *stdin*, and then the read data is taken away, and the original process can't read it.
 
 Let's see what happens if the `fork()`-ed process reads all the data it can (and then displays the throughput):
 
