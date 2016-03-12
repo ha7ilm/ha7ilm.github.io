@@ -1,0 +1,20 @@
+---
+title: Some Linux shorthands
+layout: post
+---
+I like to use some shorthands on my Debian-based machines.
+
+I usually make some small scripts in /usr/bin to call:
+
+* `sudo apt-get install something` by typing `ag something`
+* `sudo apt-cache search something` by typing `ase something`
+
+I also have a small utility called dediff to check what's changed in `/dev` while I was just unplugging a device. This way it's easier to locate e.g. USB devices that create virtual serial ports.
+
+To install these scripts to `/usr/bin`, you'll have to issue:
+
+	wget -qO- ha5kfu.sch.bme.hu/up/ha7ilm-sh.tgz | sudo tar xzvf - -C /usr/bin
+
+By executing the command above or downloading the archive file specified in the command above, you accept that this code is placed under public domain by having associated CC0 license with this work. This also means that I'm not responsible for any use of this software, nor the command above, and I don't make any warranties about them.
+
+Especially don't execute the command above, if you already have any executables in /usr/bin that are named the same as the corresponding ones in the archive file.
