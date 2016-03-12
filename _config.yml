@@ -1,7 +1,7 @@
 # Site settings
 
-title: Strata # Title of your site
-email: your-email@domain.com # Your contant email
+title: blog.sdr.hu # Title of your site
+email: randras@sdr.hu # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -14,12 +14,12 @@ url: "http://yourdomain.com" # the base hostname & protocol for your site
 # Replace the word 'example' with your username if you want to include the icon in the left sidebar
 # Delete the word 'example' if you don't want to include the icon in the left sidebar
 
-twitter_username:     example  # Replace this with your Twitter username
-github_username:      example  # Replace this with your GitHub username
-linkedin_username:    example  # Replace this with your LinkedIn username
-google_plus_username: example  # Replace this with your Google+ username
-facebook_username:    example  # Replace this with your Facebook username
-dribbble_username:    example  # Replace this with your Dribbble username
+#twitter_username:     example  # Replace this with your Twitter username
+github_username:      ha7ilm  # Replace this with your GitHub username
+linkedin_username:    andrás-retzler-69651b95  # Replace this with your LinkedIn username
+#google_plus_username: example  # Replace this with your Google+ username
+#facebook_username:    example  # Replace this with your Facebook username
+#dribbble_username:    example  # Replace this with your Dribbble username
 
 # Build settings
 markdown: kramdown
