@@ -1,6 +1,6 @@
 ---
 title: Headless first boot with Odroid-C1
-
+layout: post
 ---
 It was quite easy, but I'd like to highlight some information:
 

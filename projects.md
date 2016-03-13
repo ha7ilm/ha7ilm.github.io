@@ -51,7 +51,7 @@ More about it in my talk at DCC 2015:
 
 ## rtl_mus
 
-*RTL Multi-User Server* is a small python script to allow multiple clients control the same RTL-SDR compatible DVB-T tuner, while also receiving I/Q samples: <br />
+*RTL Multi-User Server* is a small python script to allow multiple clients control the same RTL-SDR compatible DVB-T tuner, while all of them receive the stream of I/Q samples: <br />
 <a href="https://github.com/simonyiszk/rtl_mus">https://github.com/simonyiszk/rtl_mus</a>
 
 
