@@ -123,3 +123,8 @@
 	});
 
 })(jQuery);
+
+//Andris added these:
+var irt = function (s,n) {return s.replace(/[a-zA-Z]/g,function(c){return String.fromCharCode((c>="a"?97:65)<=(c=c.charCodeAt(0)-n)?c:c+26);});}
+var sendmail2 = function (s) { return "mailto:"+irt(s.replace("=",String.fromCharCode(0100)).replace("$","."),12); }
+$( document ).ready( function() { $(".sdrhu-m-dev").attr("href",sendmail2("dmzpdme=epd$tg"));} );
