@@ -6,9 +6,7 @@ layout: post
 
 <h2 style="margin: 0;"><a href="" class="sdrhu-m-dev">Hire me.</a></h2>Writing code is my profession, and I have already solved problems for several companies.
 
-<!--<h2 style="margin: 0;">Want to get your SDR hardware supported? <a href="mailto:{{ site.email }}">Donate hardware.</a></h2>While I maintain <a href="https://github.com/simonyiszk/openwebrx/wiki/Adding-support-for-new-receiver-hardware">a guide</a> on making new hardware work with OpenWebRX, I also regularly help hams who ask me about it. It is hard, however, to add support without having the hardware in my hands.-->
-
-<h2 style="margin: 0;">Want to integrate OpenWebRX into your product?</h2>OpenWebRX is dual licensed, so that it is available to be built into future commercial transceivers. <a href="mailto:{{ site.email }}">Contact me</a> about that. If you support me this way, expect me to care about my open source contributors also while doing business.
+<h2 style="margin: 0;">Want to integrate OpenWebRX into your product?</h2>OpenWebRX is dual licensed, so that it is available to be built into future commercial transceivers. <a href="" class="sdrhu-m-dev">Contact me</a> about that. If you support me this way, expect me to care about my open source contributors also while doing business.
 
 <a name="paypal"></a>
 <h2 style="margin: 0;">Support development directly via PayPal.</h2>I am doing OpenWebRX in my free time, while I am working on other projects to make a living, and also still doing my Master's at the university. OpenWebRX is a dual licensed project, which means that I am keeping the doors open for its use as a part of commercial products later, although I will keep OpenWebRX open (see the previous section). However, it is currently still a hobby project for me, without a company behind it to support the development. If you want to support my work that I give away for free to ham radio operators and SDR enthusiasts, you can donate via PayPal.
