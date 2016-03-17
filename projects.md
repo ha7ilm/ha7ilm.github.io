@@ -6,7 +6,7 @@ layout: post
 
 ## OpenWebRX
 
-OpenWebRX is a multi-user SDR receiver software with a web interface.<br />[https://github.com/simonyiszk/openwebrx](https://github.com/simonyiszk/openwebrx)
+OpenWebRX is a multi-user SDR receiver software with a web interface.<br />[http://openwebrx.org](http://openwebrx.org)
 
 <img src="images/opensource-openwebrx.png" width="100%" />
 
