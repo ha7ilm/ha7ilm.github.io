@@ -14,6 +14,7 @@ layout: post
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypalform">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="4T7XAD3GE4Z62">
+<input id="paypal_purpose" type="hidden" name="item_name" value="Support Andras Retzler to develop more open source">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
@@ -24,19 +25,19 @@ Currently I'm working on the following things:
 
 <li><strong>GPGPU and FastDDC:</strong> Improving the DDC algorithms and making the first GPGPU accelerated web-based SDR receiver. I will also document the algorithms for anyone to use them later. See <a href="2016/03/13/recent-work.html">my article for more</a>.
 <br /><span style="color: #999;">Donated amount: </span>
-<a href="#to_paypal" class="bitcoinbar" data-address="gpgpu" data-goal="5000" data-formid="paypalform"></a>
+<a href="#to_paypal" class="bitcoinbar" data-address="gpgpu" data-goal="5000" data-formid="paypalform" data-purpose="Support GPGPU development for OpenWebRX"></a>
 <br /><br /></li>
 
 
 <li><strong>Better UI:</strong> Various improvements including a squelch, S-meter, spectrum graph, and better mobile support.
 <br /><span style="color: #999;">Donated amount: </span>
-<a href="#to_paypal" class="bitcoinbar" data-address="ui" data-goal="2500" data-formid="paypalform"></a>
+<a href="#to_paypal" class="bitcoinbar" data-address="ui" data-goal="2500" data-formid="paypalform" data-purpose="Support UI development for OpenWebRX"></a>
 <br /><br /></li>
 
 
 <li><strong>Digital demodulators:</strong> This year I am going to introduce PSK31 and RTTY digital demodulators into OpenWebRX and csdr. I am going to document these just as I did with other algorithms in <a href="http://openwebrx.org/bsc-thesis.pdf">my BSc thesis</a>.
 <br /><span style="color: #999;">Donated amount: </span>
-<a href="#to_paypal" class="bitcoinbar" data-address="digital" data-goal="2500" data-formid="paypalform"></a>
+<a href="#to_paypal" class="bitcoinbar" data-address="digital" data-goal="2500" data-formid="paypalform" data-purpose="Support digital demodulator development for OpenWebRX"></a>
 <br /><br /></li>
 
 </ul>

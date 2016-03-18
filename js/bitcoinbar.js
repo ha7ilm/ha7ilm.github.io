@@ -30,38 +30,14 @@ function applyBitcoinbarData(elem, data) {
 		if (percent >= 100) elem.addClass("done")
 	}, 10)
 
-	elem.on("click", function() { $("#"+elem.data("formid")).submit(); $(document.body).fadeOut(1000); return; 
-		$(".bitcoinbar-addressbar").remove() // Remove previous addressbars
+	elem.on("click", function() { 
 
-		// Create addressbar after bitcoinbar
-		var addressbar = $("<div class='bitcoinbar-addressbar'><input type='text' readonly/><br><a href='"+elem.attr("href")+"'><img src='https://blockchain.info/qr?data="+elem.data("address")+"&size=125' width='125' height='125' /></a></div>")
-		elem.after(addressbar)
-
-		// Set address to input
-		$("input", addressbar).val(elem.data("address"))
-
-		// Init QRcode anim
-		$("img", addressbar).css("transform", "rotateX(-90deg)").css("opacity", 0)
-
-		// Focus the input
-		setTimeout(function() {
-			addressbar.addClass("visible")
-			$("input", addressbar).focus()
-		},1)
-
-		$("input", addressbar).on("focus", function() { // Select all and show QRcode on focus
-			elem.addClass("focus")
-			setTimeout(function() {
-				$("input", addressbar).select()
-				$("img", addressbar).css("transform", "rotateX(0deg)").css("opacity", 1)
-			}, 100)
-		})
-		$("*").on("click", function(e) { // Hide QRcode on outside click
-			if ($(e.target).parents(".bitcoinbar-addressbar").length) return // Has .bitcoinbar-addressbar in clicked elem parents, do nothing
-			elem.removeClass("focus")
-			$("img", addressbar).css("transform", "rotateX(-90deg)").css("opacity", 0)
-		})
-		return false;
+		$("#paypal_purpose").val(elem.data("purpose"));
+		$("#"+elem.data("formid")).submit(); 
+		$(document.body).fadeOut(1000); 
+		return; 
+		// =====================
+		
 	})
 }
 
