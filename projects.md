@@ -4,6 +4,8 @@ layout: post
 
 # My open source projects
 
+If you like the open source work presented here, you can <a href="/support">support me</a>.
+
 ## OpenWebRX
 
 OpenWebRX is a multi-user SDR receiver software with a web interface.<br />[http://openwebrx.org](http://openwebrx.org)
