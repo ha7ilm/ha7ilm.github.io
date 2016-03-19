@@ -33,7 +33,8 @@ More about it in my talk at DCC 2015:
 
 ## qtcsdr
 
-*qtcsdr* makes a ham transceiver out of your Raspberry Pi 2 and RTL-SDR, with the help of [rpitx](https://github.com/F5OEO/rpitx/)!
+*qtcsdr* makes a ham transceiver out of your Raspberry Pi 2 and RTL-SDR, with the help of [rpitx](https://github.com/F5OEO/rpitx/)!<br />
+[https://github.com/ha7ilm/qtcsdr](https://github.com/ha7ilm/qtcsdr)
 
 <img src="images/opensource-qtcsdr.png" />
 
