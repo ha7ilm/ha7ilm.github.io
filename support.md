@@ -42,7 +42,7 @@ Currently I'm working on the following things:
 
 </ul>
 
-**Thank you for your support!** When donating, please add a note to the *Purpose* field about which of these three set of features would you support.
+**Thank you for your support!** 
 
 **Important:** I plan to implement all of these features even if I get no donations. On the other hand, I am not providing a service in return of the donations, and I keep the right to choose which features to work on and implement. The donated amounts are not updated automatically, however, I am updating them regularly (2-3 business days). 
 
