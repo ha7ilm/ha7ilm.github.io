@@ -23,7 +23,7 @@ Currently I'm working on the following things:
 
 <ul>
 
-<li><strong>GPGPU and FastDDC:</strong> Improving the DDC algorithms and making the first GPGPU accelerated web-based SDR receiver. I will also document the algorithms for anyone to use them later. See <a href="2016/03/13/recent-work.html">my article for more</a>.
+<li><strong>GPGPU and FastDDC:</strong> Improving the DDC algorithms and making the first GPGPU accelerated web-based SDR receiver that is open source. I will also document the algorithms for anyone to use them later. See <a href="2016/03/13/recent-work.html">my article for more</a>.
 <br /><span style="color: #999;">Donated amount: </span>
 <a href="#to_paypal" class="bitcoinbar" data-address="gpgpu" data-goal="5000" data-formid="paypalform" data-purpose="Support GPGPU development for OpenWebRX"></a>
 <br /><br /></li>
