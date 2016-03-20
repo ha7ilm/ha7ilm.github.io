@@ -6,7 +6,7 @@ While developing OpenWebRX, I always wanted to make it available to hams who hav
 
 The GPL protects you from company to improve your software and sell it for money without distributing the source code. It does not protect you, however, from someone who forks your software (which means making an own version incompatible with the original), then uses it as an essential part of his open source hardware project, puts the whole thing up to Kickstarter (which was impossible without your work), and goes away with your opportunities (and at least gives back the source changes that you have to port manually). In life it happens that a retired Silicon Valley engineer, who just moved to New Zealand, does this to a young guy, who has just written his thesis at the university - just because he can do it, as the license allows it.
 
-I am very grateful to life, however, as I've already got very much from OpenWebRX: I was able to speak at conferences, and got a lot of positive feedback. Thanks everyone! Whatever happens to forks of OpenWebRX, I am still committed to writing more open source.
+I am very grateful to life, however, as I've already got very much from OpenWebRX: I was able to <a href="http://sdr.hu/openwebrx#dcc">speak at conferences</a>, and got a lot of positive feedback. Thanks everyone! Whatever happens to forks of OpenWebRX, I am still committed to writing more open source.
 
 If you like OpenWebRX, you can <a href="/support#paypal">support my open source work</a>.
 
@@ -90,4 +90,4 @@ In conculsion, even with a laptop GPU (NVIDIA Quadro 1000M) about 17x speedup ca
 
 I carried out this work to fulfil the requirements of *Project Laboratory 2* and *Heterogeneous Computing Systems* subjects at Budapest University of Technogy and Economics.
 
-*Note: this article has been edited on 2016-03-17.*
+*Note: this article has last been edited on 2016-03-20.*
