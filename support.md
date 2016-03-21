@@ -29,10 +29,10 @@ Currently I'm working on the following things:
 <br /><br /></li>
 
 
-<li><strong>Better UI:</strong> Various improvements including a squelch, S-meter, spectrum graph, and better mobile support.
+<li><strong>Better UI:</strong> Various improvements including a <s>squelch</s>, <s>S-meter</s>, spectrum graph, frequency labels, and better mobile support.
 <br /><span style="color: #999;">Donated amount: </span>
 <a href="#to_paypal" class="bitcoinbar" data-address="ui" data-goal="2500" data-formid="paypalform" data-purpose="Support UI development for OpenWebRX"></a>
-<br /><br /></li>
+<br /><br /><center><span style="text-align: center; color: #999; font-style: italic;">2016-03-21 UPDATE: Finished a squelch slider, auto squelch adjustment, an S-meter, sliders for waterfall colors, waterfall color auto adjustment, zoom buttons. Also added a new goal: frequency labels.</span></center><br /></li>
 
 
 <li><strong>Digital demodulators:</strong> This year I am going to introduce PSK31 and RTTY digital demodulators into OpenWebRX and csdr. I am going to document these just as I did with other algorithms in <a href="http://openwebrx.org/bsc-thesis.pdf">my BSc thesis</a>.
