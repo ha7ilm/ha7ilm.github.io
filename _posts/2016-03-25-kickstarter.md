@@ -16,7 +16,7 @@ What happens on <a href="http://kickstarter.com/projects/1575992013/kiwisdr-beag
 
 Why I'm standing up here is that forking open source software (which means changing the code in a way that is incompatible with the original version, and taking development in another direction), and funding it through Kickstarter is a very unusual way of getting things done. **I acknowledge that John has very much work in his board and the accompanying software, however, he treated me and my project in an unethical manner.**
 
-It all started when I publicly released OpenWebRX in November, 2014. I have been looking around on the Internet for groups and individuals who whould have to know about it. John had a post about his WRX project (which is now KiwiSDR). It was an FPGA-based receiver board, which seemed some kind of hobby project to me. John wanted a web interface for the WRX, however, he was unable to obtain a license for using the WebSDR source code. So I wrote an e-mail to him about OpenWebRX. He was very happy about it, and said that this might be the thing that he really missed. I also helped him with additional advice for porting some DSP routines from C to Javascript. 
+It all started when I publicly released OpenWebRX in November, 2014. I have been looking around on the Internet for groups and individuals who would have to know about it. John had a post about his WRX project (which is now KiwiSDR). It was an FPGA-based receiver board, which seemed some kind of hobby project to me. John wanted a web interface for the WRX, however, he was unable to obtain a license for using the WebSDR source code. So I wrote an e-mail to him about OpenWebRX. He was very happy about it, and said that this might be the thing that he really missed. I also helped him with additional advice for porting some DSP routines from C to Javascript. 
 
 Later I've seen that he actually made use of my project, when he put the first receiver online. He made improvements to the web interface, and also rewrote the backend, so it now uses the stream coming from the FPGA. John released <a href="http://github.com/jks-prv/Beagle_SDR_GPS">his source code</a> on GitHub, which contained code from OpenWebRX along with other projects. For example, the receiver makes use of code from openHPSDR. The repo seem to be hacked together from multiple projects to get things done fast, without the actual effort made to contribute to the projects it was created from. While John always said that he actually tried to keep it compatible with the original OpenWebRX, I never received any pull requests from him. His fork is made only for selling his board: you cannot use any other hardware with it.
 
@@ -48,6 +48,6 @@ Things won't stop with KiwiSDR.
 
 <hr />
 
-*Note: this article has last been edited on 2016-03-26 at 00:27 CET*
+*Note: this article has last been edited on 2016-03-26 at 00:38 CET*
 
 
