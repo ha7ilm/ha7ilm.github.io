@@ -38,10 +38,16 @@ While John might be used to doing business like this (hope not), he doesn't seem
 
 The high-tech world (including open source) is built on trust. I do not understand, why would ever anyone ruin his own reputation for 50,000 USD? 
 
-<hr>
+<hr />
 
 However, this article should not end this sad. As <a href="/2016/03/13/recent-work.html">I have aready written</a>, I cannot be discouraged in my work by someone like John. Even if he goes away with a pile of money. Even if others go away with a pile of money. I am doing <a href="/projects">this work</a> so that amateur radio operators and SDR enthusiasts can play with it, and students can learn from it. And I'm going to write more open source, as I've got a tremendous amount of inspiration from people.
 
-I have been working as a software developer for several years. In the beginning, I coded websites if people asked me to. Later I coded Verilog or VHDL, if a company was in need. I dived into the embedded software until the assembly level, if it was needed to make a product happen. But in life, I am really into three things: open source, software radio and teaching people. 
+I have been working as a software developer for several years. In the beginning, I coded websites if people asked me to. Later I coded Verilog or VHDL, if a company was in need. I dived into the embedded software until the assembly level, if it was needed to make a product happen. But in life, I am really into three things: open source, software defined radio and teaching people. 
 
 Things won't stop with KiwiSDR.
+
+<hr />
+
+*Note: this article has last been edited on 2016-03-25.*
+
+
