@@ -48,6 +48,6 @@ Things won't stop with KiwiSDR.
 
 <hr />
 
-*Note: this article has last been edited on 2016-03-25.*
+*Note: this article has last been edited on 2016-03-26 at 00:03 CET*
 
 
