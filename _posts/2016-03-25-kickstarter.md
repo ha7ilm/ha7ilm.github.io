@@ -36,7 +36,7 @@ After people actually asked about these things on the Kickstarter page in the co
 
 While John might be used to doing business like this (hope not), he doesn't seem to understand that open source has different rules to play. John and ValentF(x), who would want to do business with you after this? You are likely to win 50,000 USD now, but this post will remain here forever. 
 
-The high-tech world (including open source) is built on trust. I do not understand, why would ever anyone ruin his own reputation for 50,000 USD? 
+The high-tech world (including open source) is built on trust. I do not understand, why would ever anyone ruin his own good reputation for 50,000 USD? 
 
 <hr />
 
@@ -48,6 +48,6 @@ Things won't stop with KiwiSDR.
 
 <hr />
 
-*Note: this article has last been edited on 2016-03-26 at 00:38 CET*
+*Note: this article has last been edited on 2016-03-26 at 01:04 CET*
 
 
