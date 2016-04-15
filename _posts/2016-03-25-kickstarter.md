@@ -3,7 +3,7 @@ title: "John Seamons and ValentF(x) are selling their reputation on Kickstarter"
 layout: post
 ---
 
-> After writing this article, John has changed his mind, and he contacted me about resolving the situation. He and Valent F(x) made a Memorandum of Understanding about sharing the profit of KiwiSDR with me and Andrew Holme (the author of the GPS receiver code used in KiwiSDR). <br/><br/> During the last month, I've got a lot of mails from a lot of people. Thanks everyone for your amazing support! It was not possible without you!
+> After writing this article, John has changed his mind, and he contacted me about resolving the situation. He made a Memorandum of Understanding about Valent F(x) giving a part of the profit of KiwiSDR to me and Andrew Holme (the author of the GPS receiver code used in KiwiSDR).<br/><br/> During the last month, I've got a lot of mails from a lot of people. Thanks everyone for your amazing support! It was not possible without you!
 
 <hr />
 
@@ -53,6 +53,6 @@ Things won't stop with KiwiSDR.
 
 <hr />
 
-*Note: this article has last been edited on 2016-03-26 at 01:53 CET*
+*Note: this article has last been edited on 2016-04-15 at 09:39 CET*
 
 
