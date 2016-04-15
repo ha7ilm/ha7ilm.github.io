@@ -2,6 +2,11 @@
 title: "John Seamons and ValentF(x) are selling their reputation on Kickstarter"
 layout: post
 ---
+
+> After writing this article, John has changed his mind, and he contacted me about resolving the situation. He and Valent F(x) made up a Memorandum of Understanding about sharing the profit of KiwiSDR with me and Andrew Holme (the author of the GPS receiver code used in KiwiSDR). <br/><br/> During the last month, I've got a lot of mails from a lot of people. Thanks everyone for your amazing support! It was not possible without you!
+
+<hr />
+
 It is hard to write a post like this. I hoped I would never have to.
 
 What happened to OpenWebRX, has happened to other SDR software as well. I've seen both small and large projects disappear or close the source code because someone has tried to benefit from the work of the original developers without taking care to ethics and sometimes even misusing licenses.
