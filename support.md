@@ -46,3 +46,4 @@ Currently I'm working on the following things:
 
 **Important:** I plan to implement all of these features even if I get no donations. On the other hand, I am not providing a service in return of the donations, and I keep the right to choose which features to work on and implement. The donated amounts are not updated automatically, however, I am updating them regularly (2-3 business days). 
 
+> The fundraising has started in March, 2016.
