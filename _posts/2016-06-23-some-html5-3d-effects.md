@@ -10,6 +10,6 @@ While things like this are not the most important in an SDR application, the Ope
 </video>
 
 <br/>
-The source of the inspiration was the work of Tamas, the open source <a href="http://zeronet.io/">ZeroNet</a> (which is a cool project, make sure to check it out).
+The source of the inspiration was the work of open source developer Tamás Kocsis, the cool <a href="http://zeronet.io/">ZeroNet</a> project (make sure to check it out).
 
 
