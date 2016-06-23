@@ -3,7 +3,7 @@ title: "hpsdrtool"
 layout: post
 ---
 
-I've created a python script that can read the I/Q samples from a HPSDR Atlas + Metis + Mercury receiver. The code is available on GitHub:
+I've created a python script that can read the I/Q samples from a HPSDR Atlas + Metis + Mercury receiver, and write them to the standard output. The code is available on GitHub:
 
 <a href="https://github.com/ha7ilm/hpsdrtool">https://github.com/ha7ilm/hpsdrtool</a>
 
@@ -20,9 +20,12 @@ format_conversion="csdr convert_s24_f"
 samp_rate=192000
 ```
 
-This is how it looks like in OpenWebRX:
+You might also use the script to record the I/Q samples from HPSDR to a file.
+
+This is how `hpsdrtool` works with OpenWebRX:
 
 <img src="/images/hpsdr1.png" style="max-width: 100%" />
 
 <img src="/images/hpsdr2.png" style="max-width: 100%" />
+
 
