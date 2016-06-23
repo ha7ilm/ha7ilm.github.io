@@ -20,8 +20,6 @@ format_conversion="csdr convert_s24_f"
 samp_rate=192000
 ```
 
-You might also use the script to record the I/Q samples from HPSDR to a file.
-
 This is how `hpsdrtool` works with OpenWebRX:
 
 <img src="/images/hpsdr1.png" style="max-width: 100%" />
