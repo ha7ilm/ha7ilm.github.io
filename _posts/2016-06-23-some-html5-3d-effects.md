@@ -5,7 +5,7 @@ layout: post
 
 While things like this are not the most important in an SDR application, the OpenWebRX UI has been improved with some 3D animations:
 
-<video autoplay controls>
+<video autoplay controls style="width:100%;">
 	<source src="/files/css3d-openwebrx.webm" />
 </video>
 
