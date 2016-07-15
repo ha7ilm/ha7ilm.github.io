@@ -3,6 +3,10 @@ title: "sdr.hu maintenance"
 layout: post
 ---
 
-On July 16, Saturday, the server that hosts the VM for sdr.hu will be temporarily switched off, as the machine is being transported between buildings. It will be back in operation in a few days, hopefully on July 18, Monday. 
+The sdr.hu server will be temporarily down from 16 July to 18 July (expected).
+
+The server machine that hosts the sdr.hu VM is getting moved into another building by the staff who operate it.
+
+When this is finished, the website will be started again. 
 
 
