@@ -1,3 +1,6 @@
 [submodule "repos/TAPR-DCC-2015-Talk-and-Paper"]
 	path = repos/TAPR-DCC-2015-Talk-and-Paper
 	url = https://github.com/ha7ilm/TAPR-DCC-2015-Talk-and-Paper/
+[submodule "repos/Friedrichshafen-SDRA-2016-Talk-And-Paper"]
+	path = repos/Friedrichshafen-SDRA-2016-Talk-And-Paper
+	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2016-Talk-And-Paper
