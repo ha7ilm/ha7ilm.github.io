@@ -8,4 +8,8 @@ This is an absolute quick guide to install [OpenWebRX](http://openwebrx.org), an
 
 It was originally written for Ubuntu 14.04.2 LTS, but should work on the current version as well.
 
+# Is my SDR hardware supported?
+
+Besides RTL-SDR, many other devices work with OpenWebRX (e. g. HackRF, AirSpy, SDRplay, etc.) Check the [OpenWebRX wiki](https://github.com/simonyiszk/openwebrx/wiki#guides-for-receiver-hardware-support) for more information.
+
 > The source of this post is my previous blog at [HA5KFU](http://ha5kfu.sch.bme.hu).
