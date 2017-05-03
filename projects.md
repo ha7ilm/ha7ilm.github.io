@@ -1,8 +1,7 @@
 ---
 layout: post
+title: "My open source projects"
 ---
-
-# My open source projects
 
 If you like the open source work presented here, you can <a href="/support">support me</a>.
 

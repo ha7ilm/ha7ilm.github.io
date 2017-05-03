@@ -1,8 +1,7 @@
 ---
 layout: post
+title: "Hi!"
 ---
-
-## Hi!
 
 ### My name is András.
 
