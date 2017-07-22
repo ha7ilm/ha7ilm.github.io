@@ -4,3 +4,6 @@
 [submodule "repos/Friedrichshafen-SDRA-2016-Talk-And-Paper"]
 	path = repos/Friedrichshafen-SDRA-2016-Talk-And-Paper
 	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2016-Talk-And-Paper
+[submodule "repos/Friedrichshafen-SDRA-2017-Talk-And-Paper"]
+	path = repos/Friedrichshafen-SDRA-2017-Talk-And-Paper
+	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2017-Talk-And-Paper
