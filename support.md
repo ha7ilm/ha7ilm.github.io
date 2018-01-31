@@ -34,19 +34,21 @@ Currently I'm working on the following things:
 <a href="#to_paypal" class="bitcoinbar" data-address="ui" data-goal="2500" data-formid="paypalform" data-purpose="Support UI development for OpenWebRX"></a>
 <br /><br />
 <center><span style="text-align: center; color: #999; font-style: italic;">2016-03-21 UPDATE: Finished a squelch slider, auto squelch adjustment, an S-meter, sliders for waterfall colors, waterfall color auto adjustment, zoom buttons. Also added a new goal: frequency labels.</span></center>
-<center><span style="text-align: center; color: #999; font-style: italic;">2016-07-12 UPDATE: Added a 3D waterfall diagram to the UI.</span></center><br />
+<center><span style="text-align: center; color: #999; font-style: italic;">2017-07-12 UPDATE: Added a 3D waterfall diagram to the UI.</span></center><br />
 </li>
 
 
 <li><strong>Digital demodulators:</strong> This year I am going to introduce PSK31 and RTTY digital demodulators into OpenWebRX and csdr. I am going to document these just as I did with other algorithms in <a href="http://openwebrx.org/bsc-thesis.pdf">my BSc thesis</a>.
 <br /><span style="color: #999;">Donated amount: </span>
 <a href="#to_paypal" class="bitcoinbar" data-address="digital" data-goal="2500" data-formid="paypalform" data-purpose="Support digital demodulator development for OpenWebRX"></a>
-<br /><br /><center><span style="text-align: center; color: #999; font-style: italic;">2016-07-12 UPDATE: Finished the BPSK31 demodulator, and documented it in my <a href="http://openwebrx.org/msc-thesis.pdf">Master's thesis</a>.</span></center><br /></li>
+<br /><br /><center><span style="text-align: center; color: #999; font-style: italic;">2017-07-12 UPDATE: Finished the BPSK31 demodulator, and documented it in my <a href="http://openwebrx.org/msc-thesis.pdf">Master's thesis</a>.</span></center><br /></li>
 
 </ul>
 
+In addition, I've also received **9800 USD** in total from ValentFX (owner of KiwiSDR) between 2016 and 2017.
+
 **Thank you for your support!** 
 
-**Important:** I plan to implement all of these features even if I get no donations. On the other hand, I am not providing a service in return of the donations, and I keep the right to choose which features to work on and implement. The donated amounts are not updated automatically, however, I am updating them regularly (2-3 business days). 
+**Important:** I plan to implement all of these features even if I get no donations. On the other hand, I am not providing a service in return of the donations, and I keep the right to choose which features to work on and implement. The donated amounts are not updated automatically, however, I am updating them regularly (<s>2-3 business days</s> 30 business days). 
 
-> The fundraising has been started in March, 2016.
+> The fundraising has been started in March, 2016.   
