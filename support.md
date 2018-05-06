@@ -38,10 +38,10 @@ Currently I'm working on the following things:
 </li>
 
 
-<li><strong>Digital demodulators:</strong> This year I am going to introduce PSK31 and RTTY digital demodulators into OpenWebRX and csdr. I am going to document these just as I did with other algorithms in <a href="http://openwebrx.org/bsc-thesis.pdf">my BSc thesis</a>.
+<li><strong>Digital demodulators:</strong> This year I am going to introduce PSK31 and RTTY digital demodulators into OpenWebRX and csdr. I am going to document these just as I did with other algorithms in <a href="https://sdr.hu/static/bsc-thesis.pdf">my BSc thesis</a>.
 <br /><span style="color: #999;">Donated amount: </span>
 <a href="#to_paypal" class="bitcoinbar" data-address="digital" data-goal="2500" data-formid="paypalform" data-purpose="Support digital demodulator development for OpenWebRX"></a>
-<br /><br /><center><span style="text-align: center; color: #999; font-style: italic;">2017-07-12 UPDATE: Finished the BPSK31 demodulator, and documented it in my <a href="http://openwebrx.org/msc-thesis.pdf">Master's thesis</a>.</span></center><br /></li>
+<br /><br /><center><span style="text-align: center; color: #999; font-style: italic;">2017-07-12 UPDATE: Finished the BPSK31 demodulator, and documented it in my <a href="https://sdr.hu/static/msc-thesis.pdf">Master's thesis</a>.</span></center><br /></li>
 
 </ul>
 

@@ -14,7 +14,7 @@ Now, back to the things that count: while there are already SDR boards that can 
 
 Currently, OpenWebRX works well with sampling rates around 2.4 Msps, but 60 Msps is a bit more than this: it cannot be easily processed with a general purpose CPU, so we need to get into high performance computing (HPC), and use GPU or FPGA for parallel computations. 
 
-The performance bottleneck is the so-called Digital Downconverter (DDC), the signal processing block that selects a given narrow-band channel from the input, and also decreases the sampling rate. I've detailed the related <a href="http://openwebrx.org/bsc-thesis.pdf#page=46">algorithms</a> in my thesis, and have also been speaking about having improved them with ARM NEON at <a href="https://www.youtube.com/watch?v=-V0rp7x454g&feature=youtu.be&t=22m50s">TAPR DCC 2015</a>.
+The performance bottleneck is the so-called Digital Downconverter (DDC), the signal processing block that selects a given narrow-band channel from the input, and also decreases the sampling rate. I've detailed the related <a href="https://sdr.hu/static/bsc-thesis.pdf#page=46">algorithms</a> in my thesis, and have also been speaking about having improved them with ARM NEON at <a href="https://www.youtube.com/watch?v=-V0rp7x454g&feature=youtu.be&t=22m50s">TAPR DCC 2015</a>.
 
 ## FastDDC
 
