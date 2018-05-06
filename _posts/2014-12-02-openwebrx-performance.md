@@ -2,7 +2,7 @@
 title: OpenWebRX performance tests
 layout: post
 ---
-<a href="http://sdr.hu/openwebrx">OpenWebRX</a> serving 10 clients simultaneously (and also running the browser windows on the same machine), without audio underruns.
+<a href="https://sdr.hu/openwebrx">OpenWebRX</a> serving 10 clients simultaneously (and also running the browser windows on the same machine), without audio underruns.
 
 * Server CPU: Intel Core i7
 * samp_rate: 1024000

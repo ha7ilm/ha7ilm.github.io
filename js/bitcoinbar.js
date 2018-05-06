@@ -61,7 +61,7 @@ function updateBitcoinbars() {
 	*/
 	$(".bitcoinbar").each(function() {
 		var address = $(this).data("address");
-		$.get("http://sdr.hu/static/donations/"+address, function(res) { 
+		$.get("https://sdr.hu/static/donations/"+address, function(res) { 
 			elem = $(".bitcoinbar[data-address="+address+"]");
 			applyBitcoinbarData(elem, res);
 		});
