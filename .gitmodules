@@ -1,15 +1,15 @@
 [submodule "repos/TAPR-DCC-2015-Talk-and-Paper"]
 	path = repos/TAPR-DCC-2015-Talk-and-Paper
-	url = https://github.com/ha7ilm/TAPR-DCC-2015-Talk-and-Paper/
+	url = git@github.com:ha7ilm/TAPR-DCC-2015-Talk-and-Paper
 [submodule "repos/Friedrichshafen-SDRA-2016-Talk-And-Paper"]
 	path = repos/Friedrichshafen-SDRA-2016-Talk-And-Paper
-	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2016-Talk-And-Paper
+	url = git@github.com:ha7ilm/Friedrichshafen-SDRA-2016-Talk-And-Paper
 [submodule "repos/Friedrichshafen-SDRA-2017-Talk-And-Paper"]
 	path = repos/Friedrichshafen-SDRA-2017-Talk-And-Paper
-	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2017-Talk-And-Paper
+	url = git@github.com:ha7ilm/Friedrichshafen-SDRA-2017-Talk-And-Paper
 [submodule "Friedrichshafen-SDRA-2018"]
 	path = Friedrichshafen-SDRA-2018
-	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2018
+	url = git@github.com:ha7ilm/Friedrichshafen-SDRA-2018
 [submodule "repos/Friedrichshafen-SDRA-2018"]
 	path = repos/Friedrichshafen-SDRA-2018
-	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2018
+	url = git@github.com:ha7ilm/Friedrichshafen-SDRA-2018
