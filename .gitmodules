@@ -10,3 +10,6 @@
 [submodule "Friedrichshafen-SDRA-2018"]
 	path = Friedrichshafen-SDRA-2018
 	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2018
+[submodule "repos/Friedrichshafen-SDRA-2018"]
+	path = repos/Friedrichshafen-SDRA-2018
+	url = https://github.com/ha7ilm/Friedrichshafen-SDRA-2018
