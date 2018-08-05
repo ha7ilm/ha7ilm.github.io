@@ -1,4 +1,7 @@
-# My progress with the TOEFL language exam
+---
+layout: post
+title: "My progress with the TOEFL language exam"
+---
 
 **Planned date of taking the exam: 2018-08-14**
 
