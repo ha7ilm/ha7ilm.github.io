@@ -20,8 +20,7 @@ I have built a web-based spectrum monitoring tool, [OpenWebRX](http://sdr.hu/ope
 I have experience with the Xilinx toolchain (Vivado and SDK), and especially the Zynq SoCs.
 I have solved timing problems, written bootloaders, wrote TCL scripts and worked around the bugs of the toolchain, etc.
 I can implement both the programmable logic and the firmware for the CPU, and the interfaces between them. I can basically make things work for you.
-I also have some experience with the Altera/Intel toolchain.
-
+I also have some experience with the Altera/Intel toolchain.  
 You can find the website of my FPGA consulting business at: [fixfpga.com](http://fixfpga.com)
 
 ### GPU development
