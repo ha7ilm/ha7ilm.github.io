@@ -22,6 +22,8 @@ I have solved timing problems, written bootloaders, wrote TCL scripts and worked
 I can implement both the programmable logic and the firmware for the CPU, and the interfaces between them. I can basically make things work for you.
 I also have some experience with the Altera/Intel toolchain.
 
+You can find the website of my FPGA consulting business at: [fixfpga.com](http://fixfpga.com)
+
 ### GPU development
 
 I have experience in accelerating algorithms with both CUDA and OpenCL. 
