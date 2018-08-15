@@ -15,4 +15,4 @@ My total score was 92 (out of 120), with the following scores in each section:
 
 > The ScoreNexus mock exam is a simulated TOEFL exam to give an opinion on how someone would perform on a real exam. However, it is NOT an official TOEFL exam.
 
-This score would not be sufficient for every university I'm currently interested in, so I decided to sharpen my skills for some more time, now planning to take the exam on 2018-09-08.
+This score would be OK for some universities I'm currently interested in, but not for all of them. On that reason, I decided to sharpen my skills for some more time, now planning to take the exam on 2018-09-08.
