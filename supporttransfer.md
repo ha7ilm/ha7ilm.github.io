@@ -1,8 +1,7 @@
 ---
 layout: post
+title: Bank transfer details for donations
 ---
-
-## Bank transfer details for donations
 
 Thank you for your interest in donating to me!  
 If you have any problem through the process, let me know in <a class="sdrhu-m-dev">e-mail</a>, or you can still donate via <a href="/support">PayPal</a>.
