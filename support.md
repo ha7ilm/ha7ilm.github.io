@@ -9,7 +9,9 @@ layout: post
 <h2 style="margin: 0;">Want to integrate OpenWebRX into your product?</h2>OpenWebRX is dual licensed, so that it is available to be built into future commercial transceivers. <a href="" class="sdrhu-m-dev">Contact me</a> about that. If you support me this way, expect me to care about my open source contributors also while doing business.
 
 <h2 style="margin: 0;">Say thanks!</h2>
-You can donate to say thanks for OpenWebRX development here:
+
+You can donate to say thanks for OpenWebRX development:  
+by a <a href="/supporttransfer">bank transfer</a> or PayPal:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypalform">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -17,6 +19,7 @@ You can donate to say thanks for OpenWebRX development here:
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
+
 
 <h2>Update on the donation programme // 2018-11-23</h2>
 
