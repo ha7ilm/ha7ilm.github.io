@@ -3,18 +3,10 @@ layout: post
 title: "My progress with the TOEFL language exam"
 ---
 
-**Planned date of taking the exam: January, 2019**
+**Update 2018-12-28:** I have completed the TOEFL exam.  
+My total score is 104 (out of 120), with the following scores in each section:
 
-I have completed a mock exam at [scorenexus.com](scorenexus.com) on 2018-08-04.
-My total score was 92 (out of 120), with the following scores in each section:
-
-* reading: 28/30
+* reading: 27/30
 * listening: 28/30
-* speaking: 19/30
-* writing: 17/30
-
-I completed a second mock exam on 2018-11-11, with a slightly worse overall score (90 out of 120), but my speaking improved by 3 points.
-
-> The ScoreNexus mock exam is a simulated TOEFL exam to give an opinion on how someone would perform on a real exam. However, it is NOT an official TOEFL exam.
-
-This score would be OK for some universities I'm currently interested in, but not for all of them. On that reason, I decided to sharpen my skills for some more time, now planning to take the exam on <s>2018-09-08</s> in January 2019.
+* speaking: 23/30
+* writing: 26/30
