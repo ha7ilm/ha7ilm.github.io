@@ -8,11 +8,13 @@ If you have any problem through the process, let me know in <a class="sdrhu-m-de
 
 ### US bank account details (USD)
 
-**Please do add the message: "Donation" to the transfer!** (I need this for tax reasons.)
+**Please do add the message: "Donation" to the transfer!** (I need this for tax reasons.)  
+Please select the "checkings account" option when sending.
 
-**Account holder:** TransferWise FBO András Retzler  
+**Account holder:** András Retzler  
 **Account number:** 8310182737  
 **ACH routing number:** 026073150  
+**Bank code (SWIFT / BIC):** CMFGUS33  
 **Bank address:**
 
 ```
@@ -27,15 +29,17 @@ United States
 
 **Please do add the message: "Donation" to the transfer!** (I need this for tax reasons.)
 
+
+
 **Account holder:** András Retzler  
-**Bank code (SWIFT / BIC):** DEKTDE7GXXX  
-**IBAN:** DE63 7001 1110 6053 7813 47  
-**Bank address:**
+**Bank code (SWIFT / BIC):** TRWIBEB1XXX  
+**IBAN:** BE53 9670 2464 6753  
+**Bank address:**  
 
 ```
-Handelsbank
-Elsenheimer Str. 41
-München
-80687
-Germany
+TransferWise Europe SA
+Square de Meeûs 38 bte 40
+Brussels
+1000
+Belgium
 ```
