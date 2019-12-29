@@ -3,8 +3,8 @@ title: "6 years of OpenWebRX"
 layout: post
 ---
 
-Today I'm finishing the development of OpenWebRX.
-It has been a fascinating 6 years, and I'd like to say thanks to everyone who supported me on my journey with these projects.
+Today I'm finishing the development of OpenWebRX.  
+It has been a fascinating 6 years, and I'd like to say thanks to everyone who supported me on my journey with this project.  
 I'd also like to say a special thanks to those who donated to support me.   
 
 > A quick summary on the changes:
