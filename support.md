@@ -2,7 +2,7 @@
 layout: post
 ---
 
-<h1>Support my <a href="/projects">work on open source!</a></h1>
+<h1>Give back for my <a href="/projects">work on open source projects.</a></h1>
 
 <h2 style="margin: 0;"><a href="/about">Hire me.</a></h2>Writing code is my profession, and I have already solved problems for several companies.
 
@@ -10,7 +10,7 @@ layout: post
 
 <h2 style="margin: 0;">Say thanks!</h2>
 
-You can donate to say thanks for OpenWebRX development:  
+You can donate to say thanks for OpenWebRX and CSDR:  
 by a <a href="/supporttransfer">bank transfer</a> or PayPal:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypalform">
