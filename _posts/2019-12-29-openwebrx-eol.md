@@ -10,7 +10,7 @@ I'd also like to say a special thanks to those who donated to support me.
 > A quick summary on the changes:
 > 
 > - __OpenWebRX will not be further developed,__ but as promised, it will remain on GitHub to serve future amateur radio experiments. There are some known [limitations](https://github.com/simonyiszk/openwebrx) of the last version though (including potentially reduced security as its dependency, Python 2.7 will be obsolete soon). 
-> - My SDR.hu website and my CSDR project will still be maintained.
+> - <span style="text-decoration: line-through">My SDR.hu website and</span> my CSDR project will still be maintained.<br>(Update 2020-05-31: the SDR.hu project is also finished.)
 > - For commercial enquiries, you can still contact me by <a href="" class="sdrhu-m-dev">e-mail</a>. 
 > - It's important to emphasize that this post is <u>not</u> about the KiwiSDR. (KiwiSDR and OpenWebRX are two separate products, even though they share some code. I'm not involved in KiwiSDR development.)
 
