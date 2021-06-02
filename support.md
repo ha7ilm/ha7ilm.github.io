@@ -11,7 +11,6 @@ layout: post
 <h2 style="margin: 0;">Say thanks!</h2>
 
 You can donate to say thanks for OpenWebRX and CSDR:  
-by a <a href="/supporttransfer">bank transfer</a> or PayPal:
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" id="paypalform">
 <input type="hidden" name="cmd" value="_s-xclick">
